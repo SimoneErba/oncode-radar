@@ -1,0 +1,12 @@
+name,ring,quadrant,isNew,status,description
+Java Spring,Adopt,languages-and-frameworks,FALSE,no change,""
+FastAPI,Adopt,languages-and-frameworks,FALSE,no change,""
+Json Schema Form,Assess,languages-and-frameworks,FALSE,no change,""
+Quarkus,Adopt,Platform,FALSE,no change,""
+Clickhouse,Adopt,Platform,FALSE,no change,""
+MindsDB,Assess,Platform,FALSE,no change,""
+Flyway,Adopt,Tools,FALSE,no change,""
+Loki,Adopt,Tools,FALSE,no change,""
+Fluentbit,Trial,Tools,FALSE,no change,""
+Observability,Adopt,Tecniques,FALSE,no change,""
+Pair programming,Trial,Tecniques,FALSE,no change,""
